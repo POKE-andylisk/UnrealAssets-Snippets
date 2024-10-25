@@ -1,0 +1,18 @@
+{
+    "Folders": {
+        "Material": "Materials",
+        "Texture2D": "Textures",
+        "StaticMesh": "Meshes",
+        "Blueprint": "Blueprints"
+    },
+
+    "Prefixes": {
+        "Blueprint": "BP_",
+        "StaticMesh": "SM_",
+        "Material": "M_",
+        "Texture2D": "T_",
+        "MediaPlayer": "MP_",
+        "MediaTexture": "MT_"
+    }
+
+}
